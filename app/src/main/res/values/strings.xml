@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">VerticalTextView</string>
+=======
+    <string name="app_name">VerticalTextViewUtils</string>
+>>>>>>> 7442403a275556e797c85b295f7078db3083d55a
 </resources>

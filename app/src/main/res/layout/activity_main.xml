@@ -15,10 +15,13 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+<<<<<<< HEAD
     <com.util.verticaltextview.VerticalTextViewUtils
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         tools:ignore="MissingConstraints" />
 
 
+=======
+>>>>>>> 7442403a275556e797c85b295f7078db3083d55a
 </androidx.constraintlayout.widget.ConstraintLayout>
